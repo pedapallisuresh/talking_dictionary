@@ -27,7 +27,7 @@ class Speaking:
 		engine.runAndWait()
 
 
-class GFG:
+class speaking_dictionary():
 	def Dictionary(self):
 		speak = Speaking()
 		dic = PyDictionary()
@@ -44,5 +44,5 @@ class GFG:
 
 
 if __name__ == '__main__':
-	GFG()
-	GFG.Dictionary(self=None)
+	speaking_dictionary()
+	speaking_dictionary.Dictionary(self=None)
